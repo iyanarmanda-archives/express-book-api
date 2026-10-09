@@ -12,12 +12,12 @@
     <a href="https://www.prisma.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="100" height="100" /></a>
   </div>
 
-  <h3 align="center">Book Search API (<i>Proto</i>)</h3>
+  <h3 align="center">Book API (<i>Proto</i>)</h3>
 
   <p align="center">
     Prototype of Heavy Search Book API
     <br />
-    <a href="https://github.com/catc0de1/nestjs-book-api"><strong>Visit Production Project »</strong></a>
+    <a href="https://github.com/iyanarmanda/nestjs-book-api"><strong>Visit Production Project »</strong></a>
     <br />
     <br />
   </p>
@@ -44,7 +44,6 @@
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
 
@@ -64,7 +63,7 @@ Features of this prototype include:
 - session-based authentication with rate limiting protection
 - using [zod](https://zod.dev/) for validation schemas
 
-The production version of this API is available at: [https://github.com/catc0de1/nestjs-book-api](https://github.com/catc0de1/nestjs-book-api)
+The production version of this API is available at: [https://github.com/iyanarmanda/nestjs-book-api](https://github.com/iyanarmanda/nestjs-book-api)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -213,17 +212,6 @@ This endpoint returns paginated book results. Available query parameters:
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- CONTACT -->
-## Contact
-
-catc0de1 - catcode0101@gmail.com
-
-Project Link: [https://github.com/catc0de1/express-book-search-api](https://github.com/catc0de1/express-book-search-api)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
